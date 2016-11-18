@@ -22,8 +22,11 @@ Este lenguaje remplazara cada caracter de esta funcion por caracterees al azar
 pero registrara en una tabla esta suplantacion para despues reconstruirla 
 
 Tabla de remplazo 
-_____
+-----
 |Linea|columna|caracter|replazado por|
 |9|1|f|x|
-____
+-----
+
+
+
 Y asi con todas los caracteres
